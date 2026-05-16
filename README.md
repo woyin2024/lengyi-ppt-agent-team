@@ -305,4 +305,4 @@ cd DaMing-PPT-Agent-Team
 
 ## License
 
-本项目采用 [MIT License](LICENSE) 开源协议，欢迎自由使用、修改和分享。如需商用，请提前取得授权。
+本项目采用 MIT License 开源协议，欢迎自由使用、修改和分享。如需商用，请提前取得授权。
